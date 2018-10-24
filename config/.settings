@@ -1,0 +1,17 @@
+{
+    "projectName": "SampleProject1",
+    "username": "shruti.kulkarni@eternussolutions.com",
+    "id": "f9145a70-d5f3-11e8-aee1-13ce0334ac39",
+    "namespace": "",
+    "orgType": "developer",
+    "loginUrl": "https://login.salesforce.com/",
+    "instanceUrl": "https://ap4.salesforce.com",
+    "workspace": "C:\\Users\\shruti.kulkarni\\Documents",
+    "subscription": [
+        "ApexClass",
+        "ApexComponent",
+        "ApexPage",
+        "ApexTrigger",
+        "StaticResource"
+    ]
+}

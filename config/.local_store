@@ -1,0 +1,16 @@
+{
+    "HelloWorld.cls": {
+        "createdById": "0056F00000AXHTAQA5",
+        "createdByName": "Shruti Kulkarni",
+        "createdDate": "2018-10-22T12:15:30.000Z",
+        "fileName": "unpackaged/classes/HelloWorld.cls",
+        "fullName": "HelloWorld",
+        "id": "01p6F00000MC2P1QAL",
+        "lastModifiedById": "0056F00000AXHTAQA5",
+        "lastModifiedByName": "Shruti Kulkarni",
+        "lastModifiedDate": "2018-10-22T12:15:30.000Z",
+        "manageableState": "unmanaged",
+        "type": "ApexClass",
+        "mmState": "clean"
+    }
+}
